@@ -1,0 +1,29 @@
+body{
+    text-align: center;
+}
+
+#root{
+    width: 100%;
+}
+
+h1{
+    color: aquamarine;
+}
+
+#btn-inc{
+    background-color: green;
+}
+
+#btn-dec{
+    background-color: red;
+}
+
+#btn-rei{
+    background-color: blue;
+}
+
+.btns{
+    color: black;
+    margin-left: 10px;
+    margin-right: 1px;
+}
